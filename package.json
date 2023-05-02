@@ -1,0 +1,13 @@
+{
+  "name": "com.codysource.singleton",
+  "version": "1.0.0",
+  "displayName": "Singleton",
+  "description": "This package provides a quick way to utilize the Singleton design pattern.",
+  "unity": "2020.3",
+  "unityRelease": "15f2",
+  "dependencies": {
+  },
+  "author": {
+    "name": "Cody Source"
+  }
+}
